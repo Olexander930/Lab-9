@@ -1,0 +1,60 @@
+A
+ f
+ile
+ is 
+a con
+tainer
+ for st
+oring da
+ta. When 
+we want to
+ 
+re
+ad 
+from
+ or w
+rite t
+o a fil
+e, we ne
+ed to ope
+n it first
+.
+ A
+fte
+r we
+'re d
+one re
+ading/w
+riting, 
+we need t
+o close th
+e
+ f
+ile
+ to 
+relea
+se the
+ resour
+ces asso
+ciated wi
+th it. The
+ 
+fi
+le 
+is o
+pened
+ in on
+e of tw
+o modes:
+ read or 
+write. The
+ 
+de
+fau
+lt m
+ode i
+s read
+, but w
+e can al
+so specif
+y.
